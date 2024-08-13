@@ -1,5 +1,6 @@
 # byte-repro
 Merge behaviors.
 
-# A
-Adds some stuff
+# B
+Adds some more stuff
+Removes some other stuff
